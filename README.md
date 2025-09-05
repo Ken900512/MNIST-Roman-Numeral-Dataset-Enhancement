@@ -94,6 +94,6 @@
 ## **結構**
 RomanMNIST    
 │── README.md  
-│── MNIST.pdf # 書面報告  
+│── MNIST_main.pdf # 書面報告  
 │── MNIST_code.ipynb # 程式碼  
 │── MNIST_reprt.pdf  # 簡報  
